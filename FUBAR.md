@@ -7,4 +7,10 @@ Bob(Stephen) and Carol (Amy) are adding the first feature.
 
 Ted!! Worked with Alice on thiss
 
+ Learning-King
 Bob worked with carol on bobs laptop!
+
+Bob(tyler) and Carol(stephen) wiorked on carol's laptop. ACP.
+
+Ted (amy) was working on Ted's laptop with Alice (Leo)
+master
